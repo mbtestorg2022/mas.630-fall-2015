@@ -4,17 +4,195 @@ title: Calendar
 uid: 90f171de-9032-4e2e-1299-d387eeb0c42e
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to Affective Computing & The Challenge of Mood Measurement and Forecasting | Assignment 1 due two days prior to Session 2 |
-| 2 | Affect Recognition | Assignment 2 due two days prior to Session 3 |
-| 3 | Students Present on 2–3 "Rough Project Ideas" | Assignment 3 due two days prior to Session 4 |
-| 4 | Sensing Emotion Directly and Indirectly |  {{< br >}}{{< br >}} Project Proposal Plan Due – Prof. Picard will give personalized feedback on students' plans a week after this session {{< br >}}{{< br >}} Assignment 4 due two days prior to Session 5 {{< br >}}{{< br >}}  |
-| 5 | Affective Technology Interaction & Empathy | Assignment 5 due two days prior to Session 6 |
-| 6 |  {{< br >}}{{< br >}} State of The Art Facial Expression Recognition and What It Tells Us About Emotion {{< br >}}{{< br >}} _Guest_: [Dr. Dan McDuff](http://alumni.media.mit.edu/~djmcduff/), Director of Research, Affectiva, and Research Affiliate MIT {{< br >}}{{< br >}}  | Assignment 6, Part 1 due two days prior to Session 7 |
-| 7 | Project Presentations: Background and Design |  {{< br >}}{{< br >}} Assignment 6, Part 2 due in class {{< br >}}{{< br >}} Assignment 7 due two days prior to Session 8 {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Stress Recognition and Relief {{< br >}}{{< br >}} _Guest_: [Dr. Javier Hernandez](http://javierhr.com/), Research Scientist at MIT Media Lab {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Assignment 8, Part 1 due one day after Session 8 {{< br >}}{{< br >}} Assignment 8, Part 2 due two days prior to Session 9 {{< br >}}{{< br >}}  |
-| 9 | Ethical Issues Related to Affective Computing | &nbsp; |
-| 10 | Grab Bag of Affective Computing Topics | &nbsp; |
-| 11 | Final Project Presentations & Discussion | &nbsp; |
-| 12 | Final Project Presentations & Celebration | Final Report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Affective Computing & The Challenge of Mood Measurement and Forecasting
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due two days prior to Session 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Affect Recognition
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due two days prior to Session 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Students Present on 2–3 "Rough Project Ideas"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due two days prior to Session 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Sensing Emotion Directly and Indirectly
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project Proposal Plan Due – Prof. Picard will give personalized feedback on students' plans a week after this session
+
+Assignment 4 due two days prior to Session 5
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Affective Technology Interaction & Empathy
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due two days prior to Session 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+State of The Art Facial Expression Recognition and What It Tells Us About Emotion
+
+_Guest_: [Dr. Dan McDuff](http://alumni.media.mit.edu/~djmcduff/), Director of Research, Affectiva, and Research Affiliate MIT
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6, Part 1 due two days prior to Session 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations: Background and Design
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 6, Part 2 due in class
+
+Assignment 7 due two days prior to Session 8
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stress Recognition and Relief
+
+_Guest_: [Dr. Javier Hernandez](http://javierhr.com/), Research Scientist at MIT Media Lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 8, Part 1 due one day after Session 8
+
+Assignment 8, Part 2 due two days prior to Session 9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Ethical Issues Related to Affective Computing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Grab Bag of Affective Computing Topics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations & Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations & Celebration
+{{< tdclose >}}
+{{< tdopen >}}
+Final Report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
