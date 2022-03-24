@@ -58,7 +58,7 @@ Affect Recognition, Part 1
 
 \[RC\] Chapter 14.
 
-Picard, R. W., E. Vyzas, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Toward Machine Emotional Intelligence: Analysis of Affective Physiological State." (PDF)](http://vismod.media.mit.edu/pub/tech-reports/TR-536.pdf) _IEEE Transactions Pattern Analysis and Machine Intelligence_ 23, no. 10 (2001): 1175–91. (Just read sections 1, 2, and 5 unless you're also interested in the machine learning details).
+Picard, R. W., E. Vyzas, et al. ["Toward Machine Emotional Intelligence: Analysis of Affective Physiological State." (PDF)](http://vismod.media.mit.edu/pub/tech-reports/TR-536.pdf) _IEEE Transactions Pattern Analysis and Machine Intelligence_ 23, no. 10 (2001): 1175–91. (Just read sections 1, 2, and 5 unless you're also interested in the machine learning details).
 
 
 {{< tdclose >}}
@@ -80,7 +80,7 @@ Forgas, and Moylan. "[After the Movies: Transient Mood and Social Judgments](htt
 
 Picard, and Liu. "[Relative Subjective Count and Assessment of Interruptive Technologies Applied to Mobile Monitoring of Stress](http://dx.doi.org/10.1016/j.ijhcs.2006.11.019)." _International Journal of Human-Computer Studies_ 65, no. 4 (2007): 361–75.
 
-Larson, and Picard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Aesthetics of Reading." (PDF)](http://affect.media.mit.edu/pdfs/05.larson-picard.pdf) _Human-Computer Interaction Consortium_, 2005.
+Larson, and Picard. ["The Aesthetics of Reading." (PDF)](http://affect.media.mit.edu/pdfs/05.larson-picard.pdf) _Human-Computer Interaction Consortium_, 2005.
 
 
 {{< tdclose >}}
@@ -96,13 +96,13 @@ Sensing Emotion Directly and Indirectly
 {{< tdopen >}}
 
 
-Klein, J., Y. Moon, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["This Computer Responds to User Frustration." (PDF)](http://affect.media.mit.edu/pdfs/02.klein-moon-picard.pdf) _Interacting with Computers_ 14, no. 2 (2002): 119–40.
+Klein, J., Y. Moon, et al. ["This Computer Responds to User Frustration." (PDF)](http://affect.media.mit.edu/pdfs/02.klein-moon-picard.pdf) _Interacting with Computers_ 14, no. 2 (2002): 119–40.
 
-Bickmore, and Picard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Towards Caring Machines." (PDF)](http://affect.media.mit.edu/pdfs/04.bickmore-picard-chi.pdf) _Proceedings of CHI_, 2004.
+Bickmore, and Picard. ["Towards Caring Machines." (PDF)](http://affect.media.mit.edu/pdfs/04.bickmore-picard-chi.pdf) _Proceedings of CHI_, 2004.
 
 Vlahos, James. "[Barbie Wants to Get to Know your Child](http://www.nytimes.com/2015/09/20/magazine/barbie-wants-to-get-to-know-your-child.html?_r=1)." _New York Times Magazine_, September 2015.
 
-Bickmore, and Schulman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Practical Approaches to Comforting Users with Relational Agents." (PDF)](http://www.ccs.neu.edu/home/bickmore/publications/CHI07.pdf) _Proceedings of CHI_, 2007.
+Bickmore, and Schulman. ["Practical Approaches to Comforting Users with Relational Agents." (PDF)](http://www.ccs.neu.edu/home/bickmore/publications/CHI07.pdf) _Proceedings of CHI_, 2007.
 
 
 {{< tdclose >}}
@@ -118,7 +118,7 @@ Affective Technology Interaction & Empathy
 {{< tdopen >}}
 
 
-McDuff, Daniel, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Measuring Voter's Candidate Preference Based on Affective Responses to Election Debates." (PDF - 4.3MB)](http://dspace.mit.edu/openaccess-disseminate/1721.1/92439) Affective Computing and Intelligent Interaction (ACII), Humaine Association Conference on IEEE, 2013.
+McDuff, Daniel, et al. ["Measuring Voter's Candidate Preference Based on Affective Responses to Election Debates." (PDF - 4.3MB)](http://dspace.mit.edu/openaccess-disseminate/1721.1/92439) Affective Computing and Intelligent Interaction (ACII), Humaine Association Conference on IEEE, 2013.
 
 \[RC\] Cohn, Jeffrey F., and Fernando De La Torre. "Automated Face Analysis for Affective Computing." Edited by Rafael Calvo, Sidney D'Mello, eds.
 
@@ -160,7 +160,7 @@ Hernandez, J., M. E. Hoque, W. Drevo, et al. "Mood Meter: Counting Smiles in the
 
 ### Optional Readings for Dr. Javier Hernandez's Talk
 
-Hernandez, Javier, Rob R. Morris, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Call Center Stress Recognition with Person-Specific Models." (PDF)](http://affect.media.mit.edu/pdfs/11.Hernandez-Morris-Picard-ACII.pdf)
+Hernandez, Javier, Rob R. Morris, et al. ["Call Center Stress Recognition with Person-Specific Models." (PDF)](http://affect.media.mit.edu/pdfs/11.Hernandez-Morris-Picard-ACII.pdf)
 
 Hernandez, Javier, Yin Li, et al. "[BioGlass: Physiological Parameter Estimation Using a Head-mounted Wearable Device](http://dx.doi.org/10.4108/icst.mobihealth.2014.257219)."
 
